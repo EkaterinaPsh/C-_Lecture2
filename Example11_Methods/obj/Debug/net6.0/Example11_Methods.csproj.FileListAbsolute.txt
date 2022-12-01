@@ -1,0 +1,15 @@
+C:\Users\seaw0\Desktop\lecture2\Example11_Methods\bin\Debug\net6.0\Example11_Methods.exe
+C:\Users\seaw0\Desktop\lecture2\Example11_Methods\bin\Debug\net6.0\Example11_Methods.deps.json
+C:\Users\seaw0\Desktop\lecture2\Example11_Methods\bin\Debug\net6.0\Example11_Methods.runtimeconfig.json
+C:\Users\seaw0\Desktop\lecture2\Example11_Methods\bin\Debug\net6.0\Example11_Methods.dll
+C:\Users\seaw0\Desktop\lecture2\Example11_Methods\bin\Debug\net6.0\Example11_Methods.pdb
+C:\Users\seaw0\Desktop\lecture2\Example11_Methods\obj\Debug\net6.0\Example11_Methods.csproj.AssemblyReference.cache
+C:\Users\seaw0\Desktop\lecture2\Example11_Methods\obj\Debug\net6.0\Example11_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seaw0\Desktop\lecture2\Example11_Methods\obj\Debug\net6.0\Example11_Methods.AssemblyInfoInputs.cache
+C:\Users\seaw0\Desktop\lecture2\Example11_Methods\obj\Debug\net6.0\Example11_Methods.AssemblyInfo.cs
+C:\Users\seaw0\Desktop\lecture2\Example11_Methods\obj\Debug\net6.0\Example11_Methods.csproj.CoreCompileInputs.cache
+C:\Users\seaw0\Desktop\lecture2\Example11_Methods\obj\Debug\net6.0\Example11_Methods.dll
+C:\Users\seaw0\Desktop\lecture2\Example11_Methods\obj\Debug\net6.0\refint\Example11_Methods.dll
+C:\Users\seaw0\Desktop\lecture2\Example11_Methods\obj\Debug\net6.0\Example11_Methods.pdb
+C:\Users\seaw0\Desktop\lecture2\Example11_Methods\obj\Debug\net6.0\Example11_Methods.genruntimeconfig.cache
+C:\Users\seaw0\Desktop\lecture2\Example11_Methods\obj\Debug\net6.0\ref\Example11_Methods.dll
