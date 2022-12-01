@@ -1,0 +1,15 @@
+C:\Users\seaw0\Desktop\lecture2\Example009_IntroMasiv\bin\Debug\net6.0\Example009_IntroMasiv.exe
+C:\Users\seaw0\Desktop\lecture2\Example009_IntroMasiv\bin\Debug\net6.0\Example009_IntroMasiv.deps.json
+C:\Users\seaw0\Desktop\lecture2\Example009_IntroMasiv\bin\Debug\net6.0\Example009_IntroMasiv.runtimeconfig.json
+C:\Users\seaw0\Desktop\lecture2\Example009_IntroMasiv\bin\Debug\net6.0\Example009_IntroMasiv.dll
+C:\Users\seaw0\Desktop\lecture2\Example009_IntroMasiv\bin\Debug\net6.0\Example009_IntroMasiv.pdb
+C:\Users\seaw0\Desktop\lecture2\Example009_IntroMasiv\obj\Debug\net6.0\Example009_IntroMasiv.csproj.AssemblyReference.cache
+C:\Users\seaw0\Desktop\lecture2\Example009_IntroMasiv\obj\Debug\net6.0\Example009_IntroMasiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seaw0\Desktop\lecture2\Example009_IntroMasiv\obj\Debug\net6.0\Example009_IntroMasiv.AssemblyInfoInputs.cache
+C:\Users\seaw0\Desktop\lecture2\Example009_IntroMasiv\obj\Debug\net6.0\Example009_IntroMasiv.AssemblyInfo.cs
+C:\Users\seaw0\Desktop\lecture2\Example009_IntroMasiv\obj\Debug\net6.0\Example009_IntroMasiv.csproj.CoreCompileInputs.cache
+C:\Users\seaw0\Desktop\lecture2\Example009_IntroMasiv\obj\Debug\net6.0\Example009_IntroMasiv.dll
+C:\Users\seaw0\Desktop\lecture2\Example009_IntroMasiv\obj\Debug\net6.0\refint\Example009_IntroMasiv.dll
+C:\Users\seaw0\Desktop\lecture2\Example009_IntroMasiv\obj\Debug\net6.0\Example009_IntroMasiv.pdb
+C:\Users\seaw0\Desktop\lecture2\Example009_IntroMasiv\obj\Debug\net6.0\Example009_IntroMasiv.genruntimeconfig.cache
+C:\Users\seaw0\Desktop\lecture2\Example009_IntroMasiv\obj\Debug\net6.0\ref\Example009_IntroMasiv.dll
